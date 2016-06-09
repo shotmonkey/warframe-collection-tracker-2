@@ -1,0 +1,39 @@
+{
+  "name": "warframe-collection-tracker-2",
+  "version": "0.0.1",
+  "main": "dist/js/index.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "node dist/js/index.js"
+  },
+  "author": "Tom Corke",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^2.0.0",
+    "run-sequence": "^1.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "compression": "^1.6.2",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "nodegit": "^0.13.1",
+    "tmp": "0.0.28",
+    "winston": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shotmonkey/warframe-collection-tracker-2.git"
+  },
+  "keywords": [
+    "warframe"
+  ],
+  "bugs": {
+    "url": "https://github.com/shotmonkey/warframe-collection-tracker-2/issues"
+  },
+  "homepage": "https://github.com/shotmonkey/warframe-collection-tracker-2#readme",
+  "description": ""
+}
