@@ -4,7 +4,7 @@
   "main": "dist/js/index.js",
   "scripts": {
     "build": "gulp build",
-    "start": "node dist/js/index.js"
+    "start": "node dist/server/js/index.js"
   },
   "author": "Tom Corke",
   "license": "MIT",

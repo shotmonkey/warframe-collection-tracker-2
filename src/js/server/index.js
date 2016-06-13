@@ -1,3 +1,9 @@
+import fs from 'fs';
+
+import uuid from 'node-uuid';
+import BluebirdPromise from 'bluebird';
+global.Promise = BluebirdPromise;
+
 import http from 'http';
 import app from './app';
 import log from './logging';

@@ -3,16 +3,21 @@
         "ecmaVersion": 6,
         "sourceType": "module",
         "ecmaFeatures": {
-            "impliedStrict": true
+            "impliedStrict": true,
+            "jsx": true
         }
     },
-    "plugins": [],
+    "plugins": [
+        "react"
+    ],
     "env": {
         "es6": true,
         "node": true,
+        "browser": true
     },
     "extends": [
-        "eslint:recommended"
+        "eslint:recommended",
+        "plugin:react/recommended"
     ],
     "rules": {
 
