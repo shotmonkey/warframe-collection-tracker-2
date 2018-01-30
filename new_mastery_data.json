@@ -1,0 +1,1048 @@
+{
+    "Archwing": {
+        "Elytron": {
+            "id": "224b813a-0e2f-4b52-aa21-9e81e532da2e"
+        },
+        "Itzal": {
+            "id": "22822600-e7e5-47f2-876a-694f3c7f394e"
+        },
+        "Odonata": {
+            "id": "b6cb2248-8aab-43e2-8dcd-41b861d3758b"
+        },
+        "Odonata Prime": {
+            "id": "f548614b-7749-4377-b8ec-f2acf13adf61"
+        }
+    },
+    "Arch-Melee": {
+        "Centaur": {
+            "id": "ab7308ee-6ca1-4667-b901-b62dc0bbb181"
+        },
+        "Kaszas": {
+            "id": "a03fca39-1c29-4262-8b88-ad91f308afb0"
+        },
+        "Knux": {
+            "id": "557fc29b-fd69-4948-b526-98bc29d2f4ba"
+        },
+        "Onorix": {
+            "id": "5f283712-8137-4924-a951-203206010c4a"
+        },
+        "Prisma Veritux": {
+            "id": "10e2e137-c002-4e18-aab6-b2c499512981"
+        },
+        "Rathbone": {
+            "id": "c83101b8-348b-46fb-9e1d-a4c2e1436836"
+        },
+        "Veritux": {
+            "id": "8e16104d-4d24-487c-808d-4ce120f1779b"
+        }
+    },
+    "Arch-Primary": {
+        "Corvas": {
+            "id": "656b8a75-2d8c-41f3-adfe-a77b717594dc"
+        },
+        "Dual Decurion": {
+            "id": "f6307a63-dae3-495f-ab33-eed6539b35b9"
+        },
+        "Fluctus": {
+            "id": "51e92508-6711-4799-8554-2db2b23ec83b"
+        },
+        "Grattler": {
+            "id": "728da15b-4daf-41db-b1eb-a742e36ea0a3"
+        },
+        "Imperator": {
+            "id": "149c77e4-f050-48b7-baf1-636db4918355"
+        },
+        "Imperator Vandal": {
+            "id": "0376a6c0-1206-4580-a829-4d36403c4b93"
+        },
+        "Phaedra ": {
+            "id": "a20d7107-aced-46d6-9133-ca16670422f4"
+        },
+        "Velocitus": {
+            "id": "385b0329-8a55-42a5-9152-87bdd4ee21c2"
+        }
+    },
+    "Primary": {
+        "Amprex": {
+            "id": "26cceb41-3a25-4df6-888e-d476713d7633"
+        },
+        "Attica": {
+            "id": "0f3c58bc-f84e-4a7e-8d9a-b7df19092b93"
+        },
+        "Boar": {
+            "id": "77da894a-a0e0-463d-9ebf-26ab462559a6"
+        },
+        "Boar Prime": {
+            "id": "498de691-c2b0-4ed4-96bf-df6ebacb7d7d"
+        },
+        "Boltor": {
+            "id": "0847e4f2-1dc5-4f7e-ac7d-08fbfbe6e554"
+        },
+        "Boltor Prime": {
+            "id": "254a7a81-f15e-4473-98a0-ce145c4e145d"
+        },
+        "Braton": {
+            "id": "8b8a7112-b7c4-4ea1-9a8f-d02f75b14ef5"
+        },
+        "Braton Prime": {
+            "id": "7ec5c478-db4a-4b77-b842-72729d69c851"
+        },
+        "Braton Vandal": {
+            "id": "738ee175-b464-4490-8468-1e8cfd104f1f"
+        },
+        "Burston": {
+            "id": "2c8d3a44-f6d5-49ee-b86e-f4d3ef3a5b52"
+        },
+        "Burston Prime": {
+            "id": "9f936ee4-09e8-48af-a831-f4b875c841f4"
+        },
+        "Buzlok": {
+            "id": "196fcf4b-ea8a-4d94-8aee-92a8aa9ba59a"
+        },
+        "Cernos": {
+            "id": "af233ba3-702f-41c5-ae64-fe554c851dea"
+        },
+        "Convectrix ": {
+            "id": "a0bb64af-1b0c-4da6-8a21-b169902ab020"
+        },
+        "Daikyu": {
+            "id": "e8212f7a-42c3-4206-890c-9674f6272672"
+        },
+        "Dera": {
+            "id": "a70958e3-8508-43b1-9731-1df417631694"
+        },
+        "Dera Vandal": {
+            "id": "74f241d5-2612-4f60-9842-d62250e1c55e"
+        },
+        "Dex Sybaris": {
+            "id": "af8f6e3d-6f97-46de-9c81-50f6fa5fd31a"
+        },
+        "Drakgoon": {
+            "id": "827f264e-7972-46e3-b940-25e1b58d604d"
+        },
+        "Dread": {
+            "id": "2b59b539-629c-4ff2-9571-41067b451b46"
+        },
+        "Flux Rifle": {
+            "id": "13e220d5-474b-4fb1-92e6-9f6097a7ff68"
+        },
+        "Glaxion": {
+            "id": "1e2e2370-1ee6-4ff1-97b9-21b98e766a74"
+        },
+        "Gorgon": {
+            "id": "ab10d601-61f1-4444-a5d3-30eb7561f878"
+        },
+        "Gorgon Wraith": {
+            "id": "a250e4ff-4345-4d2b-bf73-df13dcb6abb6"
+        },
+        "Grakata": {
+            "id": "56bb4912-1f58-455a-b881-772ad07a7d31"
+        },
+        "Grinlok": {
+            "id": "b9776f31-f444-4511-85d7-30e3ec9a45ea"
+        },
+        "Harpak": {
+            "id": "d4da3388-822f-4c27-9d63-29c1d973cb9c"
+        },
+        "Hek": {
+            "id": "a0561b73-6bda-427f-b777-3015a0e19c0c"
+        },
+        "Hind": {
+            "id": "fad9c480-7592-403e-9f1d-907f052680e2"
+        },
+        "Ignis": {
+            "id": "7de31a7b-3f7a-4b1f-8029-b0e341365ef2"
+        },
+        "Karak": {
+            "id": "3346961b-9fe8-400b-9f10-e1cce7ca36dd"
+        },
+        "Karak Wraith": {
+            "id": "7b2f4871-48bd-454b-9404-56358921a7fb"
+        },
+        "Kohm": {
+            "id": "266294ef-2d75-429f-b8ef-6710c1d13b78"
+        },
+        "Lanka": {
+            "id": "64e7de5d-75b6-47e5-8244-e7aff55fc838"
+        },
+        "Latron": {
+            "id": "aace2f63-4881-4b33-93d1-16d874af04dd"
+        },
+        "Latron Prime": {
+            "id": "ac4af17f-9759-4e07-a6d3-1db979e73880"
+        },
+        "Latron Wraith": {
+            "id": "2d3846ba-a92f-4397-9d38-a03ac0ab9b19"
+        },
+        "Miter": {
+            "id": "17e77f58-22d1-4f23-8dad-f9bac3f8ae73"
+        },
+        "MK1-Braton": {
+            "id": "dd4ca468-6ecd-4461-ae89-e75b7fd27adb"
+        },
+        "MK1-Paris": {
+            "id": "b9d34aaa-e759-417a-96b9-ccc8c5c0c135"
+        },
+        "MK1-Strun": {
+            "id": "6b602685-c696-4e1c-bb6e-679b2d583661"
+        },
+        "Mutalist Cernos": {
+            "id": "b312bd71-de47-4695-b49c-bc67d75278e4"
+        },
+        "Mutalist Quanta": {
+            "id": "13b41d0c-c5c8-499d-9f07-86d032c43baf"
+        },
+        "Ogris": {
+            "id": "3f26911d-3a7e-4289-a448-3b02b8e18044"
+        },
+        "Opticor": {
+            "id": "cb6c18c3-a449-472b-b183-5143d03cf354"
+        },
+        "Panthera": {
+            "id": "5ece3e81-29f8-414f-85d7-e083e007f53e"
+        },
+        "Paracyst": {
+            "id": "6d19e0ed-ab86-4be7-804a-13554c73ae4a"
+        },
+        "Paris": {
+            "id": "18473bfa-b5c8-4eb4-bc44-38bd187c7703"
+        },
+        "Paris Prime": {
+            "id": "c24e3203-bee7-41c3-807d-f76714f410c7"
+        },
+        "Penta": {
+            "id": "f4ee724c-3521-47dc-ae77-e1e4612e6d1e"
+        },
+        "Phage": {
+            "id": "04e19c03-3797-43be-9e86-2261ae9b8de7"
+        },
+        "Prisma Gorgon": {
+            "id": "f80a1ab7-c21b-4932-9c5b-e77691498262"
+        },
+        "Prisma Grakata": {
+            "id": "1face066-1645-4326-9b74-6e62e12f5bf0"
+        },
+        "Prisma Tetra": {
+            "id": "bf6928d4-a6d0-4a19-8625-053789df3de5"
+        },
+        "Quanta": {
+            "id": "f2d7582e-f417-4ad0-85d5-0e69866e4f43"
+        },
+        "Quanta Vandal": {
+            "id": "7dbda4e3-3516-4c53-8227-f416f6f25d6f"
+        },
+        "Rakta Cernos": {
+            "id": "463fbbb2-8106-40e5-89f5-165757accd88"
+        },
+        "Rubico": {
+            "id": "2b566699-2b44-4dd1-923c-75d8d33ce79e"
+        },
+        "Sancti Tigris": {
+            "id": "69354320-f777-4a4e-b1b1-ecc632d7d5c3"
+        },
+        "Secura Penta": {
+            "id": "c5bc3c04-8eba-42a3-a8e1-6794dd81e254"
+        },
+        "Simulor": {
+            "id": "0866af04-ffb6-4d0c-9441-72017c0e2a62"
+        },
+        "Snipetron": {
+            "id": "fe5d7c84-3f19-479c-99a3-793e0b7e1f2d"
+        },
+        "Snipetron Vandal": {
+            "id": "491a7fe4-4c5d-44d8-b80e-6a7ef5651717"
+        },
+        "Sobek": {
+            "id": "4bcc3e5e-17df-4558-8976-99cb12e6eba8"
+        },
+        "Soma": {
+            "id": "266c5511-39da-4d8c-b2e1-4cad5d34136f"
+        },
+        "Soma Prime": {
+            "id": "677c45bb-cecc-4839-9126-9ad708db6781"
+        },
+        "Stradavar": {
+            "id": "502099ad-4822-4af0-bb24-f5ddcbf51a63"
+        },
+        "Strun": {
+            "id": "7b13a61d-ebb8-4c80-82fd-570d8ed63261"
+        },
+        "Strun Wraith": {
+            "id": "8d71285b-5dbb-4ff9-a96b-a3ce5a398258"
+        },
+        "Supra": {
+            "id": "6f9ac182-9401-43c9-9890-fd3cf1ea9fe2"
+        },
+        "Sybaris": {
+            "id": "45fce676-68c1-4da5-8238-df284613d7a5"
+        },
+        "Synapse": {
+            "id": "3a436304-35ee-4190-91a3-2eaf14b30512"
+        },
+        "Synoid Simulor": {
+            "id": "56def4d0-cf2f-4b91-8275-62518f5dca57"
+        },
+        "Telos Boltor": {
+            "id": "73d65f7f-02d0-4676-9f58-8ff37790f257"
+        },
+        "Tetra": {
+            "id": "b8de6555-18ed-49ca-a728-bed6ff3242ab"
+        },
+        "Tiberon": {
+            "id": "a4f4a61f-3403-46b8-b033-0eee1dfc1370"
+        },
+        "Tigris": {
+            "id": "f1cdf65c-ac1d-4fbe-892c-e08d41f847b3"
+        },
+        "Tonkor": {
+            "id": "25c8000f-5691-4375-bda0-54cdc0e7ba1e"
+        },
+        "Torid": {
+            "id": "b6c69bf9-7b82-4bc7-96ed-affa21ac8dd4"
+        },
+        "Vaykor Hek": {
+            "id": "9d708dba-d17e-48b9-adb9-b53a89ddaa3f"
+        },
+        "Vectis": {
+            "id": "df866ba2-ed0a-400a-8e00-678c95ec4897"
+        },
+        "Vectis Prime": {
+            "id": "5e803ff4-332c-4427-a475-2edbcc94eb39"
+        },
+        "Vulkar": {
+            "id": "f089107f-2a9c-46c7-a82d-95010ff29573"
+        },
+        "Vulkar Wraith": {
+            "id": "2f5ba0f3-b847-4396-b9e5-d5ffa73d9ca5"
+        },
+        "Zhuge": {
+            "id": "ea94ffb9-ad88-4c03-81c8-0f1d78372e06"
+        }
+    },
+    "Secondary": {
+        "Acrid": {
+            "id": "75b3fe88-6667-4743-ba0e-7367e61b6624"
+        },
+        "Afuris": {
+            "id": "a4e0d476-111e-4641-9e7b-78d20598d194"
+        },
+        "Akbolto": {
+            "id": "796118cb-e9a8-4e93-b489-55224d505d8f"
+        },
+        "Akbronco": {
+            "id": "21518fe2-e2fa-4906-b277-9c3a2de19936"
+        },
+        "Akbronco Prime": {
+            "id": "7a0739f1-5eab-46e8-bb8a-4e25564d5b68"
+        },
+        "AkJagara": {
+            "id": "7c8dff6b-5996-4c2c-94cd-2763eebc994f"
+        },
+        "Aklato": {
+            "id": "2885eb0d-4a9d-4805-a676-e8a9695e755f"
+        },
+        "Aklex": {
+            "id": "c3c3433d-4bf6-48e7-b340-adf60f77175b"
+        },
+        "Akmagnus": {
+            "id": "cf5616b0-d480-4094-b1d7-a98227617d66"
+        },
+        "Aksomati": {
+            "id": "9b0c1d04-523e-42f3-bcea-618cc567a60c"
+        },
+        "Akstiletto": {
+            "id": "cde72fdf-de67-45b7-ba20-e7038c1ec3e4"
+        },
+        "AkStiletto Prime": {
+            "id": "db2d125c-f2bf-41cf-8ad7-932dcee68fca"
+        },
+        "Akvasto": {
+            "id": "ae6800a6-2726-421f-9cd1-b11fd22954e6"
+        },
+        "AkZani": {
+            "id": "81435016-8e63-4a35-bd82-a4d0dcab2984"
+        },
+        "Angstrum": {
+            "id": "38018e7e-6596-491e-bf1e-7a6ed4e51c11"
+        },
+        "Atomos": {
+            "id": "e21acf33-973a-4255-ad8b-ffe56709e593"
+        },
+        "Azima": {
+            "id": "1970ef4c-4801-492f-a126-c8be2a3f302b"
+        },
+        "Ballistica": {
+            "id": "c830492b-b6a6-4f64-87f0-4b113c3e7b00"
+        },
+        "Bolto": {
+            "id": "eec15a81-1a8f-41e0-8ff7-44eaabb157ab"
+        },
+        "Brakk": {
+            "id": "137efe2c-57d6-41bc-9424-05e8852876f0"
+        },
+        "Bronco": {
+            "id": "322f9212-ca4e-46f5-ad71-96c1f1b24f84"
+        },
+        "Bronco Prime": {
+            "id": "4934b51a-12a0-42ce-a06d-668ba850048c"
+        },
+        "Castanas": {
+            "id": "7e1ceaa3-fa09-40a0-a429-92faa000b4ca"
+        },
+        "Cestra": {
+            "id": "fa48e6b5-71c8-4f75-ada2-af24d5f26865"
+        },
+        "Despair": {
+            "id": "0c549fd4-26d6-4fc3-a1f7-00dd642f1623"
+        },
+        "Detron": {
+            "id": "273042af-4c51-4408-9a88-f79baa2c04b3"
+        },
+        "Dex Furis": {
+            "id": "92f0eed3-3533-4671-8cb1-60d0d1dea5ba"
+        },
+        "Dual Cestra": {
+            "id": "b3e90639-e355-4924-8481-61611bf93723"
+        },
+        "Dual Toxocyst": {
+            "id": "e1f6f6ee-d1d7-43ab-a961-3d406ba081fe"
+        },
+        "Embolist": {
+            "id": "6b7c9ecf-8294-4cbf-a7f4-fee0f3560bf7"
+        },
+        "Furis": {
+            "id": "795fd1a7-395e-495c-834e-72f260e1d213"
+        },
+        "Gammacor": {
+            "id": "c9f89f7d-af4c-4041-9351-7344c0b20230"
+        },
+        "Hikou": {
+            "id": "01896bfe-8fa4-4c38-929b-ca3bb369c5e8"
+        },
+        "Hikou Prime": {
+            "id": "7167386d-bbdd-4a9e-bc59-7639dc18a882"
+        },
+        "Kohmak": {
+            "id": "1d27603d-2746-4ee4-8442-7f33fb970c2f"
+        },
+        "Kraken": {
+            "id": "9b21f458-793d-445e-9fa9-1f4dbafcfffa"
+        },
+        "Kulstar": {
+            "id": "22ea79bf-af6e-4644-8ab7-e501e188164b"
+        },
+        "Kunai": {
+            "id": "9680a8d5-7064-416b-ac73-e5c2e8118bc5"
+        },
+        "Lato": {
+            "id": "f9eaa8d0-828a-4f51-9341-5fa665789861"
+        },
+        "Lato Prime": {
+            "id": "d6bf7308-4e7d-4f3e-9512-23d557cd32d2"
+        },
+        "Lato Vandal": {
+            "id": "913669b2-5226-4cd9-b7c3-1265b2c87d6a"
+        },
+        "Lex": {
+            "id": "b73d9d90-bdff-446e-a29e-22f9635d74d8"
+        },
+        "Lex Prime": {
+            "id": "27713775-7531-4141-b79f-e1a2e0458b81"
+        },
+        "Magnus": {
+            "id": "a1ed2491-3219-4f7d-ab54-b7af2e93237a"
+        },
+        "Mara Detron": {
+            "id": "879893fc-5db7-4fae-8bcb-e05f3b571d9a"
+        },
+        "Marelok": {
+            "id": "e67ead0c-e447-42e9-9085-6da251d2dff1"
+        },
+        "MK1-Furis": {
+            "id": "04114413-769f-4c97-9955-a9ffc2200004"
+        },
+        "MK1-Kunai": {
+            "id": "873490ce-51c3-4e59-a737-ce040435b9ea"
+        },
+        "Nukor": {
+            "id": "83a51928-6d5b-4174-a841-b1776206ee05"
+        },
+        "Pyrana": {
+            "id": "3b58c5f0-12b7-435b-bcd2-930b163fa49e"
+        },
+        "Rakta Ballistica": {
+            "id": "56212e27-ad4c-4dae-9adb-b0182b136772"
+        },
+        "Sancti Castanas": {
+            "id": "5cd2c835-a261-4702-a5f4-29efc81595fb"
+        },
+        "Secura Dual Cestra": {
+            "id": "825d1edf-a7f6-40d6-9735-4cea4b873352"
+        },
+        "Seer": {
+            "id": "9f78dde3-d6ce-4b12-b7d7-c7b8229b21f4"
+        },
+        "Sicarus": {
+            "id": "4ef3364d-5fbb-4c74-8abb-330c6516016e"
+        },
+        "Sicarus Prime": {
+            "id": "638afd00-cce5-4818-9e2d-4ef96a8b0483"
+        },
+        "Sonicor": {
+            "id": "a18b060d-2b31-4f9b-9ffb-bdff97d3e2e4"
+        },
+        "Spectra": {
+            "id": "3413968a-7202-471b-a634-e48609d67b6b"
+        },
+        "Spira": {
+            "id": "1de7a104-9631-45c0-b955-fc5f7757b46c"
+        },
+        "Spira Prime": {
+            "id": "d7d63c15-cb84-4619-b3cc-f819a13cfc12"
+        },
+        "Staticor": {
+            "id": "5450bb58-2819-4ffd-ab75-5ef986c0f218"
+        },
+        "Stug": {
+            "id": "250ccb91-a38b-4611-8c06-64a07537434e"
+        },
+        "Synoid Gammacor": {
+            "id": "076c7f05-22bd-42d0-993b-3dc3005caf52"
+        },
+        "Talons": {
+            "id": "6e487e85-9b05-4da7-80e4-efb6879164b7"
+        },
+        "Telos Akbolto": {
+            "id": "f03851f7-e9b9-4a3e-8937-459311e5c8aa"
+        },
+        "Twin Grakatas": {
+            "id": "0780c011-a4d3-43c4-9335-3c56fd674ee5"
+        },
+        "Twin Gremlins": {
+            "id": "e8570f9e-b71d-4a49-941c-ca093a11cbc3"
+        },
+        "Twin Kohmak": {
+            "id": "c5995074-ee06-4ce7-8dbc-9baaec89a3ff"
+        },
+        "Twin Vipers": {
+            "id": "38a13a38-fef1-43b8-b9a8-a51875c9fd90"
+        },
+        "Tysis": {
+            "id": "eee9e8f7-9b01-455d-8a38-93b1c085e76d"
+        },
+        "Vasto": {
+            "id": "554ea9fa-6094-4ca4-bcb3-40e1806d2fda"
+        },
+        "Vasto Prime": {
+            "id": "1e7d0dd7-d12c-4e73-9537-c727a1938007"
+        },
+        "Vaykor Marelok": {
+            "id": "74854abe-ca7c-4eb4-bea8-8cbc20dde188"
+        },
+        "Viper": {
+            "id": "1ad9a0aa-82db-4038-9761-a04fd601e407"
+        },
+        "Wraith Twin Vipers": {
+            "id": "0f34c4ef-d2b8-49eb-9639-e8bfc9579b6f"
+        }
+    },
+    "Melee": {
+        "Ack & Brunt": {
+            "id": "3399792a-07a4-4664-a6e1-719468408d0d"
+        },
+        "Amphis": {
+            "id": "87f4ecef-afcc-49f1-afe9-c51d49c474a0"
+        },
+        "Anku": {
+            "id": "6da97c3c-6174-4cb7-92c6-fbd9a34d4095"
+        },
+        "Ankyros": {
+            "id": "3e8b36ec-b849-4875-b631-47bf05e89dfd"
+        },
+        "Ankyros Prime": {
+            "id": "fc503ea0-e1bc-48db-960a-2115d8fb7615"
+        },
+        "Atterax": {
+            "id": "5f4e3eea-10db-4385-b429-95da9a97e816"
+        },
+        "Bo": {
+            "id": "dc792e0b-9d00-4bdd-b90c-fb3555a8daa9"
+        },
+        "Bo Prime": {
+            "id": "c3de0bc9-ae82-4e8f-b54f-5fecaa6f4b34"
+        },
+        "Boltace": {
+            "id": "647e5b16-1473-478a-a09c-64713ee3b145"
+        },
+        "Broken War": {
+            "id": "dedd26fc-5eae-4e11-a0a2-d7db9385e912"
+        },
+        "Ceramic Dagger": {
+            "id": "3be7960a-142a-41dd-a238-c427b47e7948"
+        },
+        "Cerata": {
+            "id": "329ef2d7-a00a-44af-acf2-c2a7c4affd7e"
+        },
+        "Cronus": {
+            "id": "d49333f1-c337-4bea-9b03-97bfe6f582b4"
+        },
+        "Dakra Prime": {
+            "id": "e0a32ae7-a15a-4ca0-bf40-7838d440ef8d"
+        },
+        "Dark Dagger": {
+            "id": "b6799013-9e01-4782-a65d-bbe6c3ea5a3c"
+        },
+        "Dark Sword": {
+            "id": "8cbfadbf-6a50-4e7f-8703-b8fab7cd679f"
+        },
+        "Destreza": {
+            "id": "6c76ac97-7f49-48d0-a422-7ee6c63eae73"
+        },
+        "Dex Dakra": {
+            "id": "d6a65509-ed8c-484f-a369-d979622e27a2"
+        },
+        "Dragon Nikana": {
+            "id": "0531e5ec-e20f-490e-8972-c1301d42ecc8"
+        },
+        "Dual Cleavers": {
+            "id": "51883d56-bec2-407e-b5ea-6ab08dee6067"
+        },
+        "Dual Ether": {
+            "id": "016e034f-6149-4ccd-ad6a-db6d1fc98bbc"
+        },
+        "Dual Heat Swords": {
+            "id": "e78086a3-ba06-453b-8b9e-85c89532070a"
+        },
+        "Dual Ichor": {
+            "id": "e5244fa2-6f89-45bd-98f1-3be44b9dcd6c"
+        },
+        "Dual Kamas": {
+            "id": "850e6bfe-de09-41d6-ac88-ec3cc16ec646"
+        },
+        "Dual Kamas Prime": {
+            "id": "b169934b-b671-439e-898c-a91e7b4e821e"
+        },
+        "Dual Raza": {
+            "id": "961dcbc0-f87f-47e9-8065-9d4235e31e8d"
+        },
+        "Dual Skana": {
+            "id": "ce1529b7-4e90-4948-8961-51c1ee9057af"
+        },
+        "Dual Zoren": {
+            "id": "dea3a6ac-2020-4574-8da8-06b471fafd56"
+        },
+        "Ether Daggers": {
+            "id": "2d089ddd-8b3a-4f75-8f83-26d041cad2fd"
+        },
+        "Ether Reaper": {
+            "id": "78a49b26-b566-404e-8b28-2ada13297277"
+        },
+        "Ether Sword": {
+            "id": "6c72419e-5363-40fd-8ee5-1facfc099532"
+        },
+        "Fang": {
+            "id": "e1468e86-f604-49c3-933e-93a94ab6311a"
+        },
+        "Fang Prime": {
+            "id": "b8342046-fc42-4d8a-9c57-85a9c26c3d19"
+        },
+        "Fragor": {
+            "id": "54506e51-fe20-4458-91da-46721f4e302a"
+        },
+        "Fragor Prime": {
+            "id": "5e267e5e-0c7c-47dd-aec3-2ab390ec10e4"
+        },
+        "Furax": {
+            "id": "90a55360-6858-466c-9ed7-62817021cdab"
+        },
+        "Furax Wraith": {
+            "id": "3535f526-b681-4730-9f7c-efe188c4ca90"
+        },
+        "Galatine": {
+            "id": "90f680f9-3cd4-4af9-b7d6-41d292a4d9bc"
+        },
+        "Glaive": {
+            "id": "e89d71ef-e3d9-4566-8fdd-18d1224e370c"
+        },
+        "Glaive Prime": {
+            "id": "3ecbdc9d-187d-4842-bc39-b2a3aad792aa"
+        },
+        "Gram": {
+            "id": "360cac54-1bfc-4a0a-a774-4b93b7101b6c"
+        },
+        "Halikar": {
+            "id": "e58ada77-5c62-47de-918c-dd4d7807b576"
+        },
+        "Hate": {
+            "id": "84c87d73-37f1-4d60-85cf-81e898352c2a"
+        },
+        "Heat Dagger": {
+            "id": "39ffb6b2-8cde-43e2-95e8-b5df5f374928"
+        },
+        "Heat Sword": {
+            "id": "fe386bd3-8687-4d05-9ffd-3ded79cc3143"
+        },
+        "Jat Kittag": {
+            "id": "1d7fe574-eb32-4b95-9150-13838d4e53fd"
+        },
+        "Jaw Sword": {
+            "id": "171e263e-117f-412d-916a-6bce5d8c5d7b"
+        },
+        "Kama": {
+            "id": "4b3edbea-dce8-4aee-b9b5-6d96baaa5d2d"
+        },
+        "Karyst": {
+            "id": "00275a55-8c6c-4d7a-9343-564a38cc25a2"
+        },
+        "Kestrel": {
+            "id": "112bf69a-fe68-42f9-9228-3214be11430e"
+        },
+        "Kogake": {
+            "id": "3fea0dcc-33ce-4f00-a952-e9e69d690421"
+        },
+        "Kronen": {
+            "id": "9c8667c0-8ffb-45ed-be4d-b383bfd5f264"
+        },
+        "Lacera": {
+            "id": "a691cbda-880f-4621-815d-a5c2bf9ef670"
+        },
+        "Lecta": {
+            "id": "c1b23062-c14b-491b-852f-52f45a66ab0c"
+        },
+        "Lesion": {
+            "id": "5bfbbfbd-cf27-4bfe-807a-e965d8f2caad"
+        },
+        "Machete": {
+            "id": "807b6eec-8bef-4e68-a59f-6028e5c0022b"
+        },
+        "Machete Wraith": {
+            "id": "6d7cf590-bcf0-4670-a708-719e5e5f601d"
+        },
+        "Magistar": {
+            "id": "9e95b72b-4c0a-4712-a480-aa78583aae42"
+        },
+        "Mios": {
+            "id": "9c22d764-0afb-414c-8236-6e4812a0bc19"
+        },
+        "Mire": {
+            "id": "d4282194-f467-42dd-94a4-1082e0442e15"
+        },
+        "MK1-Bo": {
+            "id": "7da3237f-cbeb-4d0d-acf4-84df26b3cc5a"
+        },
+        "MK1-Furax": {
+            "id": "18e68422-6923-4c02-a03f-f6f969e1ace5"
+        },
+        "Nami Skyla": {
+            "id": "914f92bb-2475-4135-95e6-5c520db5a7f1"
+        },
+        "Nami Solo": {
+            "id": "02080bbd-67c4-4105-85ef-b474c47c2b6f"
+        },
+        "Nikana": {
+            "id": "e1f41098-b7a8-424f-afbf-ce66530ce144"
+        },
+        "Nikana Prime": {
+            "id": "1001835b-c779-45d6-ae6b-003da29957a5"
+        },
+        "Ninkondi": {
+            "id": "84c3dbe0-fe5a-4aa4-8cb5-de025e705dd4"
+        },
+        "Obex": {
+            "id": "4a2202aa-ae6c-4409-8bff-e0a5bdb0118f"
+        },
+        "Orthos": {
+            "id": "cb01b008-e063-4b0a-9551-64d746b9e7db"
+        },
+        "Orthos Prime": {
+            "id": "319f322b-dd05-4e41-9747-f30a0c22123c"
+        },
+        "Pangolin Sword": {
+            "id": "b49edc5f-e1f9-4a76-84ac-2f1bcb3d7cc8"
+        },
+        "Plasma Sword": {
+            "id": "4167d6a9-cf38-494a-8e1c-23fb75092187"
+        },
+        "Prisma Dual Cleavers": {
+            "id": "bda43812-72cf-46da-8e7f-a33b188e31cc"
+        },
+        "Prisma Skana": {
+            "id": "9eaee4a5-ad71-45e8-9ade-ab1efcee5af3"
+        },
+        "Prova": {
+            "id": "d595d411-828c-4ab3-a680-d5395fee5d0f"
+        },
+        "Prova Vandal": {
+            "id": "e61c714f-2bf3-49ea-aaf4-112c5e2aa793"
+        },
+        "Reaper Prime": {
+            "id": "957e7219-9d95-4f39-972e-e2381aeee927"
+        },
+        "Redeemer": {
+            "id": "9eef5e57-1039-4025-9fdf-dd6dee5667e6"
+        },
+        "Ripkas": {
+            "id": "5b3f9eb8-ec01-4bc4-873a-2e3dec82a497"
+        },
+        "Scindo": {
+            "id": "2c6f7ff1-0aa4-4094-b7ad-b39cd6385e44"
+        },
+        "Scindo Prime": {
+            "id": "76ce7ffc-7865-4e82-8fbe-c3276988920e"
+        },
+        "Scoliac": {
+            "id": "13ad4232-9ccb-4ca9-9ce2-e1f09585f6b0"
+        },
+        "Serro": {
+            "id": "39315070-0e1a-4b79-bd42-8f9c6aa7609b"
+        },
+        "Shaku": {
+            "id": "607b3b37-9dc1-4897-9f04-18156fcae8f4"
+        },
+        "Sheev": {
+            "id": "a7221b11-f8ac-4c4d-ad59-667ab963bfb0"
+        },
+        "Sibear": {
+            "id": "b558ef05-0d49-423c-90de-e4b0575bc9fd"
+        },
+        "Silva & Aegis": {
+            "id": "54bd85d7-00d4-40ae-ae93-ca49fabdd46e"
+        },
+        "Skana": {
+            "id": "6b0816a1-c103-4bad-b91a-5f3968f65710"
+        },
+        "Skana Prime": {
+            "id": "c93fa084-7108-422c-839b-1d48d6ba3abd"
+        },
+        "Sydon": {
+            "id": "6e6da7c4-e3fa-4d04-96ee-c26c943ce2d3"
+        },
+        "Tekko": {
+            "id": "e51a34d1-dd29-437a-aef5-bbfeca411543"
+        },
+        "Tipedo": {
+            "id": "e59bf573-8490-4da5-af53-7bd7504223e4"
+        },
+        "Tonbo": {
+            "id": "b605c2eb-8adf-4fc6-9468-f2d23315c5e8"
+        },
+        "Twin Basolk": {
+            "id": "78f1e048-b2e2-48f0-b1a9-85d9f8a1028d"
+        },
+        "Venka": {
+            "id": "bc16dc9a-0c26-491e-bf62-d64db7278048"
+        },
+        "War": {
+            "id": "812f87d3-d0c9-466f-9704-3de109b3439a"
+        }
+    },
+    "Sentinel": {
+        "Carrier": {
+            "id": "91576e18-18fe-4be1-ae81-7b272607f738"
+        },
+        "Carrier Prime": {
+            "id": "3e57fd7e-b985-4ae9-985c-6f8cd40f1b73"
+        },
+        "Dethcube": {
+            "id": "d17d368a-921c-4d0d-a6d5-71e3399cde3e"
+        },
+        "Diriga": {
+            "id": "135237be-06e3-4ab8-a5a9-dedefb27d068"
+        },
+        "Djinn": {
+            "id": "1e6133d9-ca9b-4540-8323-9da9483cf3e7"
+        },
+        "Helios": {
+            "id": "ef78619a-2f93-4226-819f-824f8c21d4ae"
+        },
+        "Prisma Shade": {
+            "id": "aa55770a-be9d-49af-a1b9-5a8e50b466bf"
+        },
+        "Shade": {
+            "id": "b443033a-5928-4d1d-8947-a63ce3b4bf6f"
+        },
+        "Wyrm": {
+            "id": "3ea8338e-c3a7-46ac-b3cf-580cedc99439"
+        },
+        "Wyrm Prime": {
+            "id": "5b14a98f-b6d6-4eed-af40-3daf762263e0"
+        }
+    },
+    "Sentinel Weapon": {
+        "Burst Laser": {
+            "id": "62f5b01b-f667-405a-8fe8-c1b7c4c0d46b"
+        },
+        "Deconstructor": {
+            "id": "21b0b01c-e329-4a4a-9599-67f8bf6df831"
+        },
+        "Deth Machine Rifle": {
+            "id": "83b0d72d-a949-459a-bde5-79f44369e5a9"
+        },
+        "Laser Rifle": {
+            "id": "87da512c-999f-4c9d-8be4-838deea23d86"
+        },
+        "Prime Laser Rifle": {
+            "id": "cf5e9bbe-e4f3-4299-87f7-d8ebc2850187"
+        },
+        "Prisma Burst Laser": {
+            "id": "d4a9c1e8-d682-416f-8cd6-99c8102a9a73"
+        },
+        "Stinger": {
+            "id": "04fb20a7-d772-45dd-bb03-82814c234483"
+        },
+        "Sweeper": {
+            "id": "eff010a6-7092-438b-92ad-b9b8f23aff67"
+        },
+        "Sweeper Prime": {
+            "id": "095774e2-4ac0-49d4-b7b1-1109a32ba6a2"
+        },
+        "Vulklok": {
+            "id": "95f6a624-6eb4-4dd7-9a50-6d78aa7d3014"
+        }
+    },
+    "Kubrow": {
+        "Chesa": {
+            "id": "0c9eff72-4b86-478c-9471-b81d84de0960"
+        },
+        "Huras": {
+            "id": "21439abc-959e-4943-bf1d-fc137d043620"
+        },
+        "Raksa": {
+            "id": "c665bc22-25b0-49b7-be44-10c9cd57d062"
+        },
+        "Sahasa": {
+            "id": "ccc31582-833d-405d-be38-4222ae6e43f9"
+        },
+        "Sunika": {
+            "id": "6fb8e3e6-0bba-48df-9233-6eb95f7f5f01"
+        }
+    },
+    "Warframe": {
+        "Ash": {
+            "id": "7304e2b6-67f4-4cc7-94f9-854954accc3e"
+        },
+        "Ash Prime": {
+            "id": "eb4ef6b4-3753-4c65-837f-91d68c37f509"
+        },
+        "Atlas": {
+            "id": "aaabb00b-ce77-4720-b285-cc491450cea6"
+        },
+        "Banshee": {
+            "id": "bf08f490-b9c9-4914-a8fb-9834b762d32e"
+        },
+        "Chroma": {
+            "id": "3acfccd2-e356-474c-b605-1a668f3d1610"
+        },
+        "Ember": {
+            "id": "fd1aa70f-f266-4f64-b5be-15f02ddd9a68"
+        },
+        "Ember Prime": {
+            "id": "df7bdb6a-dfa8-470d-b6ce-6f0cc847842f"
+        },
+        "Equinox": {
+            "id": "eaac15c0-e0d0-4c07-8c05-37d5415b4fdf"
+        },
+        "Excalibur": {
+            "id": "582c8ccd-05f3-415a-8135-2db1ce18ca84"
+        },
+        "Excalibur Prime": {
+            "id": "a3c9490c-348d-4cbf-be7d-09b01e170eec"
+        },
+        "Frost": {
+            "id": "a6e0f22b-4e72-4323-b084-3ced97b88f72"
+        },
+        "Frost Prime": {
+            "id": "cf21e7fa-b3b1-4005-aeb8-78f6d21eb171"
+        },
+        "Hydroid": {
+            "id": "52329734-48ba-4420-8d2b-588e12468241"
+        },
+        "Inaros": {
+            "id": "eb5ab2f7-0916-46cf-b27e-c7738d637f67"
+        },
+        "Ivara": {
+            "id": "566c686d-3d09-45af-8b34-8e89ec83b7f7"
+        },
+        "Limbo": {
+            "id": "38ee0ea2-2cfc-46a7-af69-0967a055aeed"
+        },
+        "Loki": {
+            "id": "23f8e42e-a559-4683-b0d2-7c5150215c8a"
+        },
+        "Loki Prime": {
+            "id": "4e246c4e-b8a0-45b1-8098-3d26620e08ca"
+        },
+        "Mag": {
+            "id": "7bb2a5d8-9135-4c2b-9065-2d460d398929"
+        },
+        "Mag Prime": {
+            "id": "f99abd1f-ed7c-4e6a-a4f1-7be57ae3a5f7"
+        },
+        "Mesa": {
+            "id": "2d7d95c9-d5ea-4647-9a16-1b2dda7b7350"
+        },
+        "Mirage": {
+            "id": "820665b8-a857-40bd-9257-333d491053bc"
+        },
+        "Nekros": {
+            "id": "2acf1043-af43-456a-8df8-51e0f55209c0"
+        },
+        "Nezha": {
+            "id": "2c15bad3-4911-422d-a4eb-cdf86d9e9a87"
+        },
+        "Nova": {
+            "id": "70138f69-d4a4-4e9d-a7b6-dca32b263b8e"
+        },
+        "Nova Prime": {
+            "id": "c9868368-3a7e-4a09-9194-ca5b809fe7cf"
+        },
+        "Nyx": {
+            "id": "9ff5e199-1e81-4a21-9abc-9d745f267596"
+        },
+        "Nyx Prime": {
+            "id": "bc4ef5b2-fed5-48b9-8457-9a154fd8821b"
+        },
+        "Oberon": {
+            "id": "43dfa57d-a8aa-4910-8a4f-45e22e3595a8"
+        },
+        "Rhino": {
+            "id": "74b662d1-a818-40bc-89c5-a0a430f87eec"
+        },
+        "Rhino Prime": {
+            "id": "6063abb1-aa0a-4ee5-ac38-aa0ba9bc26e7"
+        },
+        "Saryn": {
+            "id": "f7c93517-fded-456f-bde4-ff6d2c9eac5a"
+        },
+        "Saryn Prime": {
+            "id": "b09094da-36e9-4292-ad85-ddb337844d98"
+        },
+        "Trinity": {
+            "id": "87696b27-184e-43e5-9fc1-859b434707cb"
+        },
+        "Trinity Prime": {
+            "id": "35ccb6c3-2333-4402-98e5-29633ff69cab"
+        },
+        "Valkyr": {
+            "id": "046b2840-3189-42e3-95e4-97f62cf4f77e"
+        },
+        "Vauban": {
+            "id": "df360150-29a4-4652-940c-7487ea21fd5c"
+        },
+        "Vauban Prime": {
+            "id": "5084c78b-ee7f-48e7-85f9-46107f6777c3"
+        },
+        "Volt": {
+            "id": "fa2e4414-444c-42fd-9a6d-f1f0e97c2e59"
+        },
+        "Volt Prime": {
+            "id": "b90ce917-052d-4a17-b798-330eb547028e"
+        },
+        "Wukong": {
+            "id": "8f977abe-9fc1-44e8-888e-ecd8f7de1e0b"
+        },
+        "Zephyr": {
+            "id": "6fa31bad-215e-43b0-b2ca-200624dbd2ec"
+        }
+    }
+}

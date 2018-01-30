@@ -1,0 +1,268 @@
+{
+
+  "Secondary Weapon": {
+
+    "Akbronco Prime": {
+      "Blueprint": {},
+      "Link": {}
+    },
+    "AkStiletto Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {}
+    },
+    "Bronco Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {}
+    },
+    "Hikou Prime": {
+      "Blueprint": {},
+      "Pouch": {},
+      "Stars": {}
+    },
+    "Lex Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {}
+    },
+    "Sicarus Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {}
+    },
+    "Spira Prime": {
+      "Blueprint": {},
+      "Pouch": {},
+      "Blade": {}
+    },
+    "Vasto Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {}
+    }
+  },
+
+  "Melee Weapon": {
+
+    "Ankyros Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Gauntlet": {}
+    },
+    "Bo Prime": {
+      "Blueprint": {},
+      "Handle": {},
+      "Ornament": {}
+    },
+    "Dakra Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    },
+    "Dual Kamas Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    },
+    "Fang Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    },
+    "Fragor Prime": {
+      "Blueprint": {},
+      "Handle": {},
+      "Head": {}
+    },
+    "Glaive Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Disc": {}
+    },
+    "Nikana Prime": {
+      "Blueprint": {},
+      "Hilt": {},
+      "Blade": {}
+    },
+    "Orthos Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    },
+    "Reaper Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    },
+    "Scindo Prime": {
+      "Blueprint": {},
+      "Blade": {},
+      "Handle": {}
+    }
+  },
+
+  "Warframe": {
+
+    "Ash Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Ember Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Frost Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Loki Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Mag Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Nova Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Nyx Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Rhino Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Saryn Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Trinity Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Vauban Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    },
+    "Volt Prime": {
+      "Blueprint": {},
+      "Chassis": {},
+      "Helmet": {},
+      "Systems": {}
+    }
+  },
+
+  "Primary Weapon": {
+
+    "Boar Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Boltor Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Braton Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Burston Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Latron Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Paris Prime": {
+      "Blueprint": {},
+      "Grip": {},
+      "Upper Limb": {},
+      "Lower Limb": {},
+      "String": {}
+    },
+    "Soma Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    },
+    "Vectis Prime": {
+      "Blueprint": {},
+      "Barrel": {},
+      "Receiver": {},
+      "Stock": {}
+    }
+  },
+
+  "Sentinel": {
+
+    "Carrier Prime": {
+      "Blueprint": {},
+      "Carapace": {},
+      "Cerebrum": {},
+      "Systems": {}
+    },
+    "Wyrm Prime": {
+      "Blueprint": {},
+      "Carapace": {},
+      "Cerebrum": {},
+      "Systems": {}
+    }
+  },
+
+  "Kubrow": {
+
+    "Kavasa Prime": {
+      "Collar": {},
+      "Band": {},
+      "Buckle": {}
+    }
+  },
+
+  "Archwing": {
+
+    "Odonata Prime": {
+      "Blueprint": {},
+      "Harness": {},
+      "Systems": {},
+      "Wings": {}
+    }
+  }
+}
